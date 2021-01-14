@@ -56,6 +56,10 @@ button.buy-now {
     margin-top: 40px;
 }
 
+img.shrink-height {
+    height: 341px;
+}
+
 .facilities-detail img {
     width: 78px;
     height: 80px;
