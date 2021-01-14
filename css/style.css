@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-light .navbar-brand img {
+    width: 300px;
+
+}
+
+h1 {
+    color: #FA804C;
+    
+    font-size: 50px;
+}
+h2{
+    color: #5b56a7;
+    
+    font-size: 50px;
+}
+span.blue-color {
+    color: #363958;
+    display: block;
+}
+
+.gray-color {
+    color:#3E3E3E;
+}
+
+.header-img img {
+    width: 70%;
+}
+
+button.buy-now {
+    padding : 15px 30px;
+    background-color: #3D4FF3;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+}
+
+/* home section */
+#home {
+    background-color: #FFF9F4;
+}
+
+/* casual section */
+.casual-heading h1 {
+    color: #363958;
+    font-size: 48px;
+    font-family: 'Bebas Neue', cursive;
+    margin-top: 40px;
+}
+
+.facilities-detail img {
+    width: 78px;
+    height: 80px;
+    
+}
+
+/* subscribe form */
+.subscribe-form input[type="text"] {
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: #363958;
+    background: transparent;
+}
+
+.subscribe-form input[type="text"]:focus {
+    outline: none;
+}
